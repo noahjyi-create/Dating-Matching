@@ -1,0 +1,1 @@
+Made this for a concept of a dating app in school. Meant to use NLP and K-clustering to match students and handle like 10,000+ signups. Not officially launched, but includes both frontend and backend. A lot of it was vibecoded fyi.
